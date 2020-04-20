@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This project is no longer used.
+
 # Starter
 
 A [Nuxt.js](https://github.com/nuxt/nuxt.js) starter project template without the distraction of a complicated development environment.
@@ -13,8 +17,8 @@ Make sure to have `node 8.0+` and `npm 5.0+` installed
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-$ vue init otwarteklatki/starter-template my-project  
-$ cd my-project                     
+$ vue init otwarteklatki/starter-template my-project
+$ cd my-project
 # install dependencies
 $ npm install # Or yarn install
 ```
